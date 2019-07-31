@@ -1,0 +1,14 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="33738c69-2ad1-4528-99f5-1724c9388e5c" name="xormasters">
+      <server host="github.com" />
+    </account>
+    <account id="60ccdc05-c16e-49d0-8408-711ededf3b8e" name="profknight">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="xormasters" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
