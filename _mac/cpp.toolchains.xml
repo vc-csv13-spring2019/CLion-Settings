@@ -1,6 +1,7 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
+      <toolchain name="Docker Host" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="5a92488d-c0dd-46b5-9b96-d70a749e40b7" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
       <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_LLDB" />
     </toolchains>
   </component>
