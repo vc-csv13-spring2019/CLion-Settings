@@ -11,6 +11,11 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
+      <webServer id="1168f6d9-bd83-4571-86f0-5bea08f3e560" name="Docker Host (1168f6d9-bd83-4571-86f0-5bea08f3e560)" url="http:///">
+        <fileTransfer host="localhost" port="2222" accessType="SFTP">
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
